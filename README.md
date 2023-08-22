@@ -35,6 +35,7 @@ How It works:
    6. When the auction is over, the winning bidder receives the highest binding amount, and everyone else withdraws the amount they originally sent.
 
 
+
 Output:
    1. truffle compile:
    
