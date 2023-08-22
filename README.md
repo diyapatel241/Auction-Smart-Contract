@@ -2,8 +2,11 @@
 Things used in the project:
 
 Solidity programming language.
+
 Ethereum.
+
 Remix IDE.
+
 Architecture of the project: Global Variables:
 
 
